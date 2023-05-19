@@ -823,7 +823,6 @@ a{
 	animation: partners 1.6s ease-in-out infinite;
 }
 .partner-container img{
-	width: 85%;
 	object-fit: cover;
 }
  .partner-title{
